@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ineudead.github.io/sitemap.html.gz
+Sitemap: https://ineudead.github.io/app/sitemap.html.gz
+Sitemap: https://ineudead.github.io/assets/sitemap.html.gz
+Sitemap: https://ineudead.github.io/css/sitemap.html.gz
+Sitemap: https://ineudead.github.io/data/sitemap.html.gz
+Sitemap: https://ineudead.github.io/includes/sitemap.html.gz
+Sitemap: https://ineudead.github.io/item/sitemap.html.gz
+Sitemap: https://ineudead.github.io/src/sitemap.html.gz
